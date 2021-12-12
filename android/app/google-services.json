@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342317960438",
+    "project_id": "agrismart-d4577",
+    "storage_bucket": "agrismart-d4577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342317960438:android:077bf8f1dd572fb27db0d7",
+        "android_client_info": {
+          "package_name": "com.example.agrismart.agrismart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342317960438-3khkb6j2f9hvaeo6avd08c6oafbtnueg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPYC_fvK0LV2e1Lf8xcEp1uR4WAo7KCrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342317960438-3khkb6j2f9hvaeo6avd08c6oafbtnueg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
